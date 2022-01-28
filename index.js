@@ -82,10 +82,9 @@ function jabbaButton() {
 }
 
 addImages()
-/* askForTime()
+askForTime()
 if (i >= 3) {
     alert('Fine, be that way.')
 }
 alert("Try reloading the page when you're done reading, it might change")
 changeListcolor()
-*/
