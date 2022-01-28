@@ -46,15 +46,11 @@ img {
     background-color: red;
     color:black;
     border-radius: 50%;
+    word-break: break-all;
 }
 
 #jabbaImage {
     height: 300px;
     width: 300px;
 
-}
-
-#jabbaButtonImage {
-    height: 1000px;
-    width: 1000px;
 }
