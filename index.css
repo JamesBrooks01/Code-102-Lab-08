@@ -1,0 +1,56 @@
+html {
+    background-image: url(./images/download.png);
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+h1 {
+    color: #FFE81F;
+    text-align: center;
+}
+
+img {
+   margin: 20px;
+   float: right;
+}
+
+#List {
+    text-align: left;
+    font-size: 36px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+#Caption {
+    text-align: right;
+    float: right;
+    margin-left: 50%;
+    color: #E5E5E5;
+}
+
+#Paragraph {
+    display: inline-block;
+}
+
+#imageButton {
+    height: 300px;
+    width: 300px;
+    font-size: 24px;
+    margin-left: 0;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    padding: 50px;
+    text-align: left;
+    float: left;
+    background-color: red;
+    color:black;
+    border-radius: 50%;
+    word-break: break-all;
+}
+
+#jabbaImage {
+    height: 300px;
+    width: 300px;
+
+}
