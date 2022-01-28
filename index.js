@@ -76,6 +76,10 @@ function addImages(imagePromt) {
         addImages()
     }
 }
+function jabbaButton() {
+    alert("You shouldn't've did that");
+    document.write('<img id="jabbaButtonImage" src="./images/JabbaTheHutt.jpg" height = "4000px" width = "4000px">')
+}
 
 addImages()
 /* askForTime()

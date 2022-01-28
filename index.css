@@ -33,24 +33,28 @@ img {
 }
 
 #imageButton {
-    height: 300px;
-    width: 300px;
+    text-align: center;
+    height: 400px;
+    width: 400px;
     font-size: 24px;
     margin-left: 0;
-    margin-right: 10%;
-    margin-top: 5%;
-    margin-bottom: 1%;
-    padding: 50px;
-    text-align: left;
+    margin-right: 30%;
+    margin-top: 1%;
+    margin-bottom: 0;
+    padding: 0px;
     float: left;
     background-color: red;
     color:black;
     border-radius: 50%;
-    word-break: break-all;
 }
 
 #jabbaImage {
     height: 300px;
     width: 300px;
 
+}
+
+#jabbaButtonImage {
+    height: 1000px;
+    width: 1000px;
 }
